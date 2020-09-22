@@ -1,0 +1,7 @@
+C:\Projects\TreeSearch\TreeSearch\bin\Debug\TreeSearch.exe.config
+C:\Projects\TreeSearch\TreeSearch\bin\Debug\TreeSearch.exe
+C:\Projects\TreeSearch\TreeSearch\bin\Debug\TreeSearch.pdb
+C:\Projects\TreeSearch\TreeSearch\obj\Debug\TreeSearch.csprojAssemblyReference.cache
+C:\Projects\TreeSearch\TreeSearch\obj\Debug\TreeSearch.csproj.CoreCompileInputs.cache
+C:\Projects\TreeSearch\TreeSearch\obj\Debug\TreeSearch.exe
+C:\Projects\TreeSearch\TreeSearch\obj\Debug\TreeSearch.pdb
